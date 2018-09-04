@@ -3,4 +3,3 @@ def palindrome(num):
     return(True)
   else:
     return(False)
-    return(False)
